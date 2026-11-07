@@ -1,2 +1,3 @@
-# UniWT_Data_and_Code
-UniWT-YOLO model source code and the final 2025 inventory of onshore and offshore wind turbine locations in coastal China.
+# UniWT-YOLO data and code
+
+The WT-point contains 50,010 onshore and 7,794 offshore points. Keep each shapefile and its sidecar files together. See model_source/UNIWT_YOLO_USAGE.md for the source entry points.
